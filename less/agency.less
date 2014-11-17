@@ -17,8 +17,8 @@ body {
 }
 
 p {
-	font-size: 14px;
-	line-height: 1.75;
+  font-size: 14px;
+  line-height: 1.75;
 }
 
 p.large {
@@ -83,8 +83,10 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default {
 	background-color: @gray-darkest;
 	border-color: transparent;
+    opacity: 0.9;
 	.navbar-brand {
 		color: @brand-primary;
+        text-shadow: 0 0 11px rgb(18, 86, 150);
 		.script-font;
         &:hover,
         &:focus,
@@ -113,7 +115,7 @@ h1, h2, h3, h4, h5, h6 {
     			.heading-font;
     			font-weight: 400;
     			letter-spacing: 1px;
-    			color: white;
+    			color: black;
     			&:hover,
     			&:focus {
     				color: @brand-primary;
@@ -132,6 +134,15 @@ h1, h2, h3, h4, h5, h6 {
 		color: white;
 		background-color: darken(@brand-primary, 10%);
 	}
+}
+
+.navbar-shrink {
+  .navbar-brand {
+    color: white;
+  }
+  .nav li a {
+    color: white;
+  }
 }
 
 @media(min-width:768px) {
@@ -157,7 +168,7 @@ h1, h2, h3, h4, h5, h6 {
         padding: 10px 0;
 		.navbar-brand {
 	        font-size: 1.5em;
-	    }    
+	    }
 	}
 }
 
