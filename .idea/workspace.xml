@@ -28,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19014084" vertical-offset="4698" max-vertical-offset="6642">
-              <caret line="267" column="14" selection-start-line="267" selection-start-column="14" selection-end-line="267" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.40110907" vertical-offset="2123" max-vertical-offset="7434">
+              <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -38,21 +38,9 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2740" max-vertical-offset="13626">
-              <caret line="168" column="1" selection-start-line="168" selection-start-column="1" selection-end-line="168" selection-end-column="1" />
-              <folding>
-                <marker date="1416433065783" expanded="true" signature="3023:3123" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="3361:3374" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="3437:3463" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="3696:3838" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="3936:3942" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="4027:4053" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="4684:5065" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="4358:4524" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="4587:4689" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="5905:6444" placeholder="{...}" />
-                <marker date="1416433065783" expanded="true" signature="5709:5817" placeholder="{...}" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="2668" max-vertical-offset="13410">
+              <caret line="164" column="1" selection-start-line="164" selection-start-column="1" selection-end-line="164" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -60,8 +48,8 @@
       <file leaf-file-name="agency.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/agency.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="13518">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.4074074" vertical-offset="4388" max-vertical-offset="13518">
+              <caret line="248" column="21" selection-start-line="248" selection-start-column="21" selection-end-line="248" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -70,7 +58,7 @@
       <file leaf-file-name="variables.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="234">
+            <state vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="234">
               <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding />
             </state>
@@ -80,8 +68,8 @@
       <file leaf-file-name="mixins.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/mixins.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="441" max-vertical-offset="1314">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state vertical-scroll-proportion="-7.9259257" vertical-offset="724" max-vertical-offset="1296">
+              <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -110,6 +98,7 @@
         <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/mail/contact_me.php" />
+        <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/less/agency.less" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -164,6 +153,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Logicalliving" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logicalliving" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Logicalliving" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="less" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -292,19 +295,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2542" max-vertical-offset="13482">
           <caret line="157" column="1" selection-start-line="157" selection-start-column="1" selection-end-line="157" selection-end-column="1" />
-          <folding>
-            <marker date="1416433065783" expanded="true" signature="3023:3123" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="3361:3374" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="3437:3463" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="3696:3838" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="3936:3942" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="4027:4053" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="4684:5065" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="4358:4524" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="4587:4689" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="5905:6444" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="5709:5817" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -340,42 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2740" max-vertical-offset="13626">
-          <caret line="168" column="1" selection-start-line="168" selection-start-column="1" selection-end-line="168" selection-end-column="1" />
-          <folding>
-            <marker date="1416433065783" expanded="true" signature="3023:3123" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="3361:3374" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="3437:3463" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="3696:3838" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="3936:3942" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="4027:4053" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="4684:5065" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="4358:4524" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="4587:4689" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="5905:6444" placeholder="{...}" />
-            <marker date="1416433065783" expanded="true" signature="5709:5817" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/mixins.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="441" max-vertical-offset="1314">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="234">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-16.666666" vertical-offset="0" max-vertical-offset="558">
@@ -384,18 +339,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/less/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.9259257" vertical-offset="724" max-vertical-offset="1296">
+          <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="234">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/less/agency.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13518">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-1.4074074" vertical-offset="4388" max-vertical-offset="13518">
+          <caret line="248" column="21" selection-start-line="248" selection-start-column="21" selection-end-line="248" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2668" max-vertical-offset="13410">
+          <caret line="164" column="1" selection-start-line="164" selection-start-column="1" selection-end-line="164" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19014084" vertical-offset="4698" max-vertical-offset="6642">
-          <caret line="267" column="14" selection-start-line="267" selection-start-column="14" selection-end-line="267" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.40110907" vertical-offset="2123" max-vertical-offset="7434">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
           <folding />
         </state>
       </provider>
