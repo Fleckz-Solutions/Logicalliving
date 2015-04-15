@@ -154,6 +154,16 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand.active {
   color: #000000;
 }
+.navbar-default .navbar-brand img {
+  width: 64px;
+  height: 64px;
+  float: left;
+  position: relative;
+  top: -19px;
+}
+.navbar-default .navbar-brand span {
+  margin-left: 5px;
+}
 .navbar-default .navbar-collapse {
   border-color: rgba(255, 255, 255, 0.02);
 }
