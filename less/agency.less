@@ -94,12 +94,14 @@ h1, h2, h3, h4, h5, h6 {
     &.active {
       color: darken(@brand-primary, 10%);
     }
-    img {
+    .logo {
+      background: transparent url("../img/logos/web-logo-sm.png") no-repeat center center;
       width: 64px;
       height: 64px;
+      display: inline-block;
       float: left;
       position: relative;
-      top: -19px;
+      top: -16px;
     }
     span {
       margin-left: 5px;
@@ -149,6 +151,15 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-shrink {
   .navbar-brand {
     color: white;
+    .logo {
+      background: transparent url("../img/logos/web-logo-sm.png") no-repeat center center !important;
+      width: 64px !important;
+      height: 64px !important;
+      display: inline-block;
+      float: left;
+      position: relative;
+      top: -16px !important;
+    }
   }
   .nav li a {
     color: white;
@@ -169,6 +180,15 @@ h1, h2, h3, h4, h5, h6 {
       -moz-transition: all 0.3s;
       transition: all 0.3s;
       color: @brand-primary;
+      .logo {
+        background: transparent url("../img/logos/web-logo-md.png") no-repeat center center;
+        width: 125px;
+        height: 125px;
+        display: inline-block;
+        float: left;
+        position: relative;
+        top: -40px;
+      }
     }
     .navbar-nav > .active > a {
       border-radius: 3px;
@@ -401,7 +421,7 @@ section {
       height: 80px;
       position: absolute;
       z-index: 100;
-      background-color: @brand-primary;
+      background-color: #f1f1f1;
       color: white;
       border-radius: 100%;
       border: 7px solid #f1f1f1;

@@ -154,12 +154,14 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand.active {
   color: #000000;
 }
-.navbar-default .navbar-brand img {
+.navbar-default .navbar-brand .logo {
+  background: transparent url("../img/logos/web-logo-sm.png") no-repeat center center;
   width: 64px;
   height: 64px;
+  display: inline-block;
   float: left;
   position: relative;
-  top: -19px;
+  top: -16px;
 }
 .navbar-default .navbar-brand span {
   margin-left: 5px;
@@ -202,6 +204,15 @@ fieldset[disabled] .btn-xl.active {
 .navbar-shrink .navbar-brand {
   color: white;
 }
+.navbar-shrink .navbar-brand .logo {
+  background: transparent url("../img/logos/web-logo-sm.png") no-repeat center center !important;
+  width: 64px !important;
+  height: 64px !important;
+  display: inline-block;
+  float: left;
+  position: relative;
+  top: -16px !important;
+}
 .navbar-shrink .nav li a {
   color: white;
 }
@@ -220,6 +231,15 @@ fieldset[disabled] .btn-xl.active {
     -moz-transition: all 0.3s;
     transition: all 0.3s;
     color: #000000;
+  }
+  .navbar-default .navbar-brand .logo {
+    background: transparent url("../img/logos/web-logo-md.png") no-repeat center center;
+    width: 125px;
+    height: 125px;
+    display: inline-block;
+    float: left;
+    position: relative;
+    top: -40px;
   }
   .navbar-default .navbar-nav > .active > a {
     border-radius: 3px;
@@ -433,7 +453,7 @@ section h3.section-subheading {
   height: 80px;
   position: absolute;
   z-index: 100;
-  background-color: #000000;
+  background-color: #f1f1f1;
   color: white;
   border-radius: 100%;
   border: 7px solid #f1f1f1;
